@@ -1,0 +1,2 @@
+Drop your resume PDF in this folder and name it "resume.pdf"
+(this matches socials.resumeUrl in src/data/portfolioData.js).

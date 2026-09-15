@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #050507;
+  color: #f4f2fb;
+  font-family: "Space Grotesk", sans-serif;
+}
+
+.font-mono-label {
+  font-family: "JetBrains Mono", monospace;
+  letter-spacing: 0.08em;
+}
+
+.grid-bg {
+  background-image:
+    linear-gradient(rgba(168, 85, 247, 0.06) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(168, 85, 247, 0.06) 1px, transparent 1px);
+  background-size: 42px 42px;
+}
+
+.ghost-text {
+  color: transparent;
+  -webkit-text-stroke: 1.5px rgba(244, 242, 251, 0.35);
+}
