@@ -32,7 +32,7 @@ export const socials = {
 export const skills = [
   {
     title: "AI / ML",
-    items: "Machine Learning · Deep Learning · GenAI · LLMs",
+    items: "Machine Learning · Deep Learning · GenAI · LLMs · RAG",
     icon: "brain",
   },
   {
