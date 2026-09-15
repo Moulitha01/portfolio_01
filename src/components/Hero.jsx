@@ -13,7 +13,7 @@ export default function Hero() {
           <div className="w-full flex items-center justify-between mt-4 mb-6 font-mono-label text-[11px] text-accent-soft/80">
             <span />
             <span className="hidden sm:block">
-              CORE ONLINE
+              CORE ONLI
               <br />
               DRAG TO INSPECT
             </span>
