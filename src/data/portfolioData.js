@@ -10,7 +10,7 @@
 export const profile = {
   name: "Moulitha",
   surname: "Chandrasekar",
-  logo: "M/C",
+  logo: "MC",
   role: "AI/ML ENGINEER",
   location: "CHENNAI, INDIA",
   heroSummary:
