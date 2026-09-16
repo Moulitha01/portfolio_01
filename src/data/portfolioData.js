@@ -10,7 +10,7 @@
 export const profile = {
   name: "Moulitha",
   surname: "Chandrasekar",
-  logo: "MC",
+  logo: "M/C",
   role: "AI/ML ENGINEER",
   location: "CHENNAI, INDIA",
   heroSummary:
@@ -32,7 +32,7 @@ export const socials = {
 export const skills = [
   {
     title: "AI / ML",
-    items: "Machine Learning · Deep Learning · GenAI · LLMs · RAG",
+    items: "Machine Learning · Deep Learning · GenAI · LLMs",
     icon: "brain",
   },
   {
